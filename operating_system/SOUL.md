@@ -1,4 +1,4 @@
-# thepopebot Soul
+# botzki Soul
 
 ## Identity
 
